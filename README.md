@@ -2,9 +2,9 @@
 
 # Sobre o projeto
 
-Link do jogo: https://analisador-de-numeros.pages.dev
+Link do projeto: https://analisador-de-numeros.pages.dev
 
-Este jogo é uma aplicação front-end, tem objetivo de caucular os numeros cadastrados, maior e menor numero informado, a soma de todos os valores e a media de todos os valores 
+Este projeto é uma aplicação front-end, tem objetivo de caucular os numeros cadastrados, maior e menor numero informado, a soma de todos os valores e a media de todos os valores 
 
 ## Layout computador
 ![Web 2](https://github.com/marciosenaf/analisador-de-numeros/blob/main/computer.readme.png)
